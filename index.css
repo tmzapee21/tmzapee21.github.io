@@ -1,0 +1,18 @@
+#titulo{
+    justify-content: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    color: linear-gradient(135deg, black , white , black , white, black );
+
+}
+
+body{
+    background: linear-gradient(135deg, black , white , black , white, black );
+
+
+}
+
+#subtitulo{
+    color: black;
+}
