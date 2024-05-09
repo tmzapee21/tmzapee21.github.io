@@ -8,11 +8,11 @@
 }
 
 body{
-    background: linear-gradient(135deg, black , white , black , white, black );
+    background: white;
 
 
 }
 
 #subtitulo{
-    color: black;
+    color: linear-gradient(135deg, black , white , black , white, black );
 }
