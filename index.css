@@ -3,7 +3,7 @@
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 100px;
-    color: linear-gradient(135deg, black , white , black , white, black );
+    background-color: linear-gradient(135deg, black , white , black , white, black );
 
 }
 
@@ -14,5 +14,7 @@ body{
 }
 
 #subtitulo{
-    color: linear-gradient(135deg, black , white , black , white, black );
+    background-color: linear-gradient(135deg, black , white , black , white, black );
+    justify-content: center;
+    text-align: center;
 }
